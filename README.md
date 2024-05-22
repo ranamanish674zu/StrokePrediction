@@ -32,3 +32,4 @@ Stroke is a leading cause of death and disability worldwide, making early predic
 
 9. **Make Predictions**
    - Apply the trained model to the test data to 
+**Accuracy** - above 93%
